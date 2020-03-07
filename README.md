@@ -4,6 +4,7 @@ Centralizing visualizations of yellow team, let's organize visualizations
 
 Ideally, each visualization should come with:
 * picture
+* link to source code
 * link to interative version if available
 * reference to datasource
 * methodology
