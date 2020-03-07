@@ -20,14 +20,24 @@ Visualizations related to world status
 
 ### Basic
 
-* New cases*
+**New cases**
 
 ![New cases](world/new_cases.png)
 
-Source https://github.com/CSSEGISandData/COVID-19
+Data source https://github.com/CSSEGISandData/COVID-19
+Code https://github.com/fabid/coronaviz/blob/master/notebooks/countries_heatmap.ipynb
 
 
 ### In depth
+
+
+
+** multipliers**
+
+![multipliers](world/multipliers.png)
+Data source https://github.com/CSSEGISandData/COVID-19
+
+**no intervention simulation**
 
 
 ## Country by country visualization
