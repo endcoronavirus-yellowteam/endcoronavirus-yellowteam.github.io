@@ -20,6 +20,11 @@ Visualizations related to world status
 
 ### Basic
 
+* New cases*
+
+![New cases](world/new_cases.png)
+
+Source https://github.com/CSSEGISandData/COVID-19
 
 
 ### In depth
